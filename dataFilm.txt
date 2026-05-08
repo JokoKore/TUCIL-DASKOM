@@ -1,0 +1,4 @@
+horror|IT|56000|5
+komedi|awas ada sule|78000|5
+scifi|cyberpunk|90000|0
+romance|la la land|120000|5
